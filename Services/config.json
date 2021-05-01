@@ -1,0 +1,19 @@
+{
+  "listener": {
+    "devices": [
+      {
+        "path": "/some/path1",
+        "module": "./node_modules/mockout"
+      },
+      {
+        "path": "/some/path1",
+        "module": "./node_modules/mockout"
+      },
+      {
+        "path": "/some/path1",
+        "module": "./node_modules/mockout"
+      }
+    ]
+  },
+  "uploader": {}
+}
